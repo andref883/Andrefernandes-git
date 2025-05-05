@@ -8,11 +8,12 @@ if(isNaN(Numero)){
 if (!isNaN(Numero)) {
 
     if (Numero > 0) {
-        alert("seu numero é positivo");// utiliziando o if para informar que se o numero for maior que 0 é positivo e se for menor que 0 é negativo
+        alert("seu numero é positivo"); // utilizando o if para informar que se o numero for maior que 0 é positivo e se for menor que 0 é negativo
     }else{
         alert("seu numero é menor que 0");
 
     }
+
 
 
 }
